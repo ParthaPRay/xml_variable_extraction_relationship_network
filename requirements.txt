@@ -1,0 +1,7 @@
+matplotlib 
+networkx
+scikit-learn 
+Levenshtein 
+sentence-transformers
+pyvis 
+gradio
