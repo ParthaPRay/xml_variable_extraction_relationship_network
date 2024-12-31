@@ -149,10 +149,6 @@ This license will terminate automatically if you fail to comply with its terms. 
 ---
 
 
-**For licensing inquiries, contact**: [parthapratimray1986@gmail.com](mailto:parthapratimray1986@gmail.com)
-
----
-
 ## Demo
 
 Try the intuitive interface:  
@@ -160,6 +156,12 @@ Try the intuitive interface:
 2. Select a similarity technique.
 3. Adjust parameters via the slider.
 4. Submit and view the results with an interactive network visualization.
+
+## Screen Shot
+
+![image](https://github.com/user-attachments/assets/5966277e-74a5-4131-83d6-1c0c6aea3fc3)
+
+![image](https://github.com/user-attachments/assets/2e277865-28ea-4d06-94bd-52a85bda2201)
 
 ---
 
