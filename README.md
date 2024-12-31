@@ -115,11 +115,7 @@ Make data relationships visible and intuitive with **XMLVERNIv1**!
 Invest in cutting-edge XML analytics for your projects today!
 
 ---
-LICENSE
-
-Here is a custom license tailored for your software:
-
----
+### LICENSE
 
 ### XML Variable Extractor and Relationship Network Illustrator License Agreement
 
@@ -158,7 +154,6 @@ In no event shall the copyright owner be liable for any damages (including but n
 ### 8. **Termination**
 This license will terminate automatically if you fail to comply with its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.  
 
----
 
 **For licensing inquiries or to purchase a commercial license, contact:**  
 **Partha Pratim Ray**  
